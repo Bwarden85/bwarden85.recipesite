@@ -1,0 +1,86 @@
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="recipe3.css">
+</head>
+
+
+
+<body class="radGradBackground">
+
+
+
+
+
+    <div class="container">
+        <div class="navBar">
+            <div class="box1">
+                <img src="https://thumbs.dreamstime.com/b/vector-illustration-kitchen-pot-logo-kitchen-logo-love-cooking-pot-vector-kitchen-logo-pot-love-cooking-logo-isolated-173452224.jpg"
+                    width="150" height="125">
+            </div>
+            <div class="box2">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="instructions.html">How To</a></li>
+                    <li><a href="contact.html">Contact Me</a></li>
+                </ul>
+            </div>
+            <div class="box3">
+                <img src="https://cdn-icons-png.flaticon.com/512/63/63621.png?w=826&t=st=1675279115~exp=1675279715~hmac=e63898cf322b79b1bb6fb555cc6535ebce962c2f8cfedb140a4225d3d3b20bca"
+                    width="40" height="40">
+                <img src="https://cdn-icons-png.flaticon.com/512/466/466963.png?w=826&t=st=1675279190~exp=1675279790~hmac=ad624dbac5824e0161997eba820eb51c82f966a82bc61e4d4fbea3879681d8c9"
+                    width="40" height="40">
+                <img src="https://cdn-icons-png.flaticon.com/512/167/167653.png?w=826&t=st=1675278939~exp=1675279539~hmac=853d415e258f7d1a59e8ccb1c5e292490567c605a95cc56f211e0aad1546ffda"
+                    width="40" height="40">
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container5">
+        <form>
+            <h2>Get in Touch</h2>
+            <div>
+                <label>Enter your name:
+                    <input type="text" />
+                </label>
+            </div>
+            <br>
+            <div>
+                <label>Email:<input type="text" /></label>
+            </div>
+            <br>
+            <div>
+                <label>
+                    <p><label>Questions or Suggestions</label></p>
+                    <textarea rows="4" cols="50" placeholder="Hit me up for recipe tips or content requests"></textarea>
+                </label>
+            </div>
+            <br>
+            <input type="submit">
+        </form>
+    </div>
+
+
+
+    <div class="container4">
+        <img class="bottomLogo clear"
+            src="https://t3.ftcdn.net/jpg/02/15/54/88/240_F_215548837_P9laS82801cMlQg9HAFxAgXqj2eMWOzm.jpg">
+        <footer>
+            Email: <a href="cookingwithb@recipe.com">cookingwithb@recipe.com</a>
+            Call: <a href="tel:8885558888">(888) 555-8888</a>
+        </footer>
+    </div>
+
+
+
+</body>
+
+</html>
